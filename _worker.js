@@ -1,4 +1,4 @@
-// Cloudflare Pages / Workers handler — FLY88 landing page
+// Cloudflare Pages / Workers handler — GG88 landing page
 import DOMAIN_MAPPINGS from "./domains.json";
 
 const DEFAULT_REDIRECT = "https://gg8858.com/?id=400665646";
