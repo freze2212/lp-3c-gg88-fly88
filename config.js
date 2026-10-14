@@ -7,6 +7,8 @@ window.SITE_CONFIG = {
   defaultLink: "",
 
   linksByDomain: {
+    "www.gg88co.com": "https://gg8835.com/?id=753023519",
+    "gg88co.com": "https://gg8835.com/?id=753023519",
     "www.ggtop.cc": "https://gg8824.com/home/register?id=194762567",
     "ggtop.cc": "https://gg8824.com/home/register?id=194762567",
     "gg8us.top": "https://gg8858.com/?id=400665646",
